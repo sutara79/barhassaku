@@ -1,0 +1,5 @@
+vendor/*
+*/.AppleDouble/
+*.DS_Store
+Thumbs.db
+!.gitkeep
